@@ -1,0 +1,27 @@
+body {
+  color: blue;
+}
+.textbar {
+   
+    margin-right: 0px;
+    float: top;
+    width: 500px;
+    height: 40px;
+    
+  }
+.s-button {
+  background-color: black;
+  color: aqua;
+  margin-left: -65px;
+  
+}
+.s-button:hover {
+  background-color: purple;
+  color: white;
+  text-decoration: bolder;
+}
+.searchnav {
+  justify-content: center;
+  
+  border: 20px;
+}
